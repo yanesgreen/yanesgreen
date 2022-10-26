@@ -1,13 +1,9 @@
 <h1 align="center">Hi There!👋, I'm Yanes</h1>
 <h3 align="center">I'm graphic and web developer from Bekasi, Indonesia. I like to make cool and awesome things, regardless what medium i'm working in.</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
-
 - 📫 Reach me at **yoeker@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
-
-- ⚡ Fun fact **I think i am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
