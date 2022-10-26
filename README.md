@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
 
-- 💬 Ask me about **Laravel, Vue, CSS aand design**
-
 - 📫 Reach me at **yoeker@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
