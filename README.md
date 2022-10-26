@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hVEBWRInEvNOEVS18i/giphy.gif" alt="animated gif" />
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Yanes</h1>
+<h1 align="center">Hi There!👋, I'm Yanes</h1>
 <h3 align="center">I'm graphic and web developer from Bekasi, Indonesia. I like to make cool and awesome things, regardless what medium i'm working in.</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
