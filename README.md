@@ -1,3 +1,6 @@
+![](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
+
+
 <h1 align="center">Hi 👋, I'm Yanes</h1>
 <h3 align="center">I'm graphic and web developer from Bekasi, Indonesia. I like to make cool and awesome things, regardless what medium i'm working in.</h3>
 
