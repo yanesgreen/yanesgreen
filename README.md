@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
 
-- 💬 Ask me about **Laravel, Vue, React and Flutter**
+- 💬 Ask me about **Laravel, Vue, CSS aand design**
 
-- 📫 Reach me **yoeker@gmail.com**
+- 📫 Reach me at **yoeker@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yulyanes d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yulyanes d" height="30" width="40" /></a>
 <a href="https://dribbble.com/yanestudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yanestudio" height="30" width="40" /></a>
 </p>
 
