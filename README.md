@@ -1,4 +1,6 @@
-![](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="animated" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Yanes</h1>
