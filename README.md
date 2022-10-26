@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel, Vue, React and Flutter**
 
-- 📫 How to reach me **yoeker@gmail.com**
+- 📫 Reach me **yoeker@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-mar-2020.vercel.app/](https://portfolio-mar-2020.vercel.app/)
 
